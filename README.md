@@ -16,7 +16,7 @@ Trained a model by merging RNN and CNN to generate the activity occuring on the 
     Below are some screenshots, half of them are from training set while others are randomly picked from internet.
     As observed below some results are exceptionally good, while some are too bad.
     
-<table align="center">
+<table align="center" border="1">
  <tr>
   <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Image-Caption-Generator/master/Image%20Caption%20Generator/Screenshots/Screenshot1.jpg" height="250" /></td>
   <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Image-Caption-Generator/master/Image%20Caption%20Generator/Screenshots/Screenshot2.jpg" height="250" /></td>
