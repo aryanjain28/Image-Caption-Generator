@@ -97,9 +97,9 @@ Trained a model by merging RNN and CNN to generate the activity occuring on the 
 
 # References
 
-<a href="https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/" >https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python</a>
-<a href="https://data-flair.training/blogs/deep-learning-project-ideas/" >https://data-flair.training/blogs/deep-learning-project-ideas/</a><br>
-<a href="https://www.youtube.com/watch?v=DejHQYAGb7Q" >https://www.youtube.com/watch?v=DejHQYAGb7Q/</a>
+<a href="https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/" >https://machinelearningmastery.com/</a><br>
+<a href="https://data-flair.training/blogs/deep-learning-project-ideas/" >https://data-flair.training/</a><br>
+<a href="https://www.youtube.com/watch?v=DejHQYAGb7Q" >https://www.youtube.com/</a>
 
 
 
